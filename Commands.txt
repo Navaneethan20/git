@@ -1,0 +1,18 @@
+Start :
+-----------------
+
+git init
+git status
+
+Branching :
+----------------- 
+
+git branch <name>
+git add .
+git commit -m "some msg"
+<<<<<<< HEAD
+git checkout <b_name> ---> to switch branch
+git branch -a (all)
+git branch -d <b_name> (dlt)
+=======
+git checkout <b_name> ---> to switvh branch
